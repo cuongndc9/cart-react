@@ -28,3 +28,8 @@ $ cd API && npm start
 ## License
 
 ![](https://img.shields.io/github/license/cuongw/cart-react.svg?style=flat-square)
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+The best way to predict the future is to create it.
+🦖
+<!-- INSPIRATIONAL_QUOTE_END -->
