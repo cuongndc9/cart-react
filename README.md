@@ -30,6 +30,6 @@ $ cd API && npm start
 ![](https://img.shields.io/github/license/cuongw/cart-react.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
+Discomfort is the currency of your dreams.
 🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
