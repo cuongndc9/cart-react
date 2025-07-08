@@ -31,5 +31,5 @@ $ cd API && npm start
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
