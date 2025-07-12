@@ -31,5 +31,5 @@ $ cd API && npm start
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "In the middle of difficulty lies opportunity." - Albert Einstein
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->
